@@ -10,7 +10,7 @@ public class teste1 {
 		c=a+b;
 		
 		System.out.println("resultado - " + z);
-		System.out.println("resultado 2 -  " + c);
+		System.out.println("resultado 2 - " + c);
 
 	}
 

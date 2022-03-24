@@ -6,13 +6,13 @@ public class aula2403part2 {
 		double nota1, nota2, nota3, media;
 		Scanner teclado = new Scanner(System.in);
 		
-		System.out.println("Digite o valor da primeira nota: ");
+		System.out.print("Digite o valor da primeira nota: ");
 		nota1 = teclado.nextDouble();
 		
-		System.out.println("Digite o valor da segunda nota: ");
+		System.out.print("Digite o valor da segunda nota: ");
 		nota2 = teclado.nextDouble();
 		
-		System.out.println("Digite o valor da terceira nota: ");
+		System.out.print("Digite o valor da terceira nota: ");
 		nota3 = teclado.nextDouble();
 				
 		media = (nota1 + nota2 + nota3) / 3;

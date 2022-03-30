@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class aula3003 {
 
 	public static void main(String[] args) {
+
 		double tempc, tempfa;
 		Scanner teclado = new Scanner(System.in);
 		

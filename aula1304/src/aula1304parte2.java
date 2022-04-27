@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class aula1204parte2 {
+public class aula1304parte2 {
 
 	public static void main(String[] args) {
 		

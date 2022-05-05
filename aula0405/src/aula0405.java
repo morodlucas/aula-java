@@ -21,7 +21,7 @@ public class aula0405 {
 			System.out.print("Gênero inválido para essa aplicação.");
 		} else {
 			if(genero.equals("feminino")) {
-				peso = 62.1 * altura- 44.7;
+				peso = 62.1 * altura - 44.7;
 			} else {
 				peso = 72.7 * altura - 58;
 			}

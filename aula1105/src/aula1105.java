@@ -31,7 +31,7 @@ public class aula1105 {
 			v3 = aux;
 		}
 		
-		System.out.println("Os valores fornecidos, em ordem crescente, são: " + v1  + v2 + v3);
+		System.out.println("Os valores fornecidos, em ordem crescente, são: " + v1 + ", " + v2 + ", " + v3 + ".");
 		
 		
 	}

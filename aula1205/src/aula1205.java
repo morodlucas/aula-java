@@ -63,6 +63,8 @@ public class aula1205 {
 		diferenca = salarion - salarioa;
 		System.out.print("O novo salário é de R$" + salarion + " e a diferença entre os salários (antigo e atual) é de R$" + diferenca);
 		
+		teclado.close();
+		
 	}
 
 }

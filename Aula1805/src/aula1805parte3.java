@@ -22,7 +22,12 @@ public class aula1805parte3 {
 		System.out.println("Deseja continuar? S/N");
 		resp = teclado.next();
 		
-		if(resp equals s)
+		if(resp.equalsIgnoreCase("s")) {
+			while()
+		}
+		else {
+			System.out.print("Obrigado por usar o programa ;)");
+		}
 		
 	}
 

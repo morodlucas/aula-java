@@ -20,13 +20,13 @@ public class aula1808 {
 		
 		System.out.println("-------------------------------------");
 		
-		System.out.println("Média da semana -> " + String.format(media, %.2f));
+		System.out.println("Média da semana -> " + media);
 		
 		for (int i = 0; i < dia.length; i++) {
 			if(temperatura[i] > media) {
 				System.out.println("Acima da média -> " + dia[i]);;
 				System.out.println("-------------------------------------");
-			}
+			}	
 		}
 		
 		
